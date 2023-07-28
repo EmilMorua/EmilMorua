@@ -31,7 +31,6 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
   <img alt="SQLAlchemy" src="https://img.shields.io/badge/-SQLAlchemy-FCA121?logo=sqlalchemy&logoColor=white" />
   <img alt="DjangoORM" src="https://img.shields.io/badge/-Django_ORM-092E20?logo=django&logoColor=white" />
   <img alt="flake8" src="https://img.shields.io/badge/-flake8-FFA500?logo=python&logoColor=white" />
-  <img alt="Pytest" src="https://img.shields.io/badge/-Pytest-0A9EDC?logo=pytest&logoColor=white" />
   <img alt="Poetry" src="https://img.shields.io/badge/-Poetry-347EFB?logo=python&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white" />
