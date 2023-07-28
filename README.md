@@ -23,23 +23,23 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
-  <img alt="Django" src="https://img.shields.io/badge/Django?style=flat-square&logo=django&logoColor=white" /> 
+  <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL?style=flat-square&logo=postgrepsq&logoColor=white" />
-  <img alt="SQLite" src="https://img.shields.io/badge/SQLite?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Flask" src="https://img.shields.io/badge/-Flask?style=flat-square&logo=insomnia&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white" />
+  <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white" />
+  <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white" />
   <img alt="Pytest" src="https://img.shields.io/badge/-Pytest?style=flat-square&logo=apollo-graphql&logoColor=white" />
-  <img alt="SQLAlchemy" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+  <img alt="SQLAlchemy" src="https://img.shields.io/badge/-SQLAlchemy-FCA121?logo=sqlalchemy&logoColor=white" />
   <img alt="DjangoORM" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="flake8" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img alt="flake8" src="https://img.shields.io/badge/-flake8-FFA500?logo=python&logoColor=white" />
   <img alt="Pytest" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Poetry" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+  <img alt="Poetry" src="https://img.shields.io/badge/-Poetry-347EFB?logo=python&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
-  <img alt="CSS" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white" />
 </p>
 
 ---
