@@ -1,11 +1,4 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif" width="100"/>
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/emil-murxin-6389aa270/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=emilmorua&style=flat-square&color=orange" alt=""/>
   <h1>
     Hey, my name's Emil
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
