@@ -8,7 +8,7 @@
 ### :man_technologist: About Me :
 
 I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-- :man_student: I am finishing my studies at the Hexlet online programming school and and looking for a job.
+- :man_student: I am finishing my studies at the Hexlet online programming school and and **```looking for a job```**.
 
 - :seedling: Exploring Technical Content Writing.
 
